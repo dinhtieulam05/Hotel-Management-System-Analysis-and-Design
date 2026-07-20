@@ -277,12 +277,16 @@ Business Value
 </p>
 
 ## Activity Diagram
-
-> (View detail at Diagrams/Activity_Diagram)
+<p align="center">
+  <img src="diagrams/Activity_Diagram/AD-3.1-SearchRoom.png" width="900"/>
+</p>
+> (View more at Diagrams/Activity_Diagram)
 
 ## Sequence Diagram
-
-> (View detail at Diagrams/Sequence_Diagram)
+<p align="center">
+  <img src="diagrams/Sequence_Diagram/SD-3-SearchRoom.png" width="900"/>
+</p>
+> (View more at Diagrams/Sequence_Diagram)
 
 ## Entity Relationship Diagram
 <p align="center">
@@ -347,13 +351,13 @@ Hotel-Management-System/
 │
 ├── README.md
 │
-├── docs/
+├── docs/              //Business analysis documents
 │
-├── diagrams/
+├── diagrams/          //Business process and UML diagrams        
 │
-├── prototype/
+├── prototype/         //Wireframes and UI prototypes
 │
-└── report/
+└── report/            //Final project report
 
 ```
 
